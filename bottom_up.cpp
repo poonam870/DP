@@ -1,3 +1,4 @@
+//code for helper funstion (boottom up dp)
 int helper(int n){
 	    vector<int>dp(n+1);
 	    dp[0]=0;
